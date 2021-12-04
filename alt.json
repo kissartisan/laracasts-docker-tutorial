@@ -1,0 +1,17 @@
+{
+    "posts": [
+      {
+        "title": "My Alternative Post",
+        "author": "Reymark Torres"
+      },
+      {
+        "title": "My Another Alternative Post",
+        "author": "Reymark Torres"
+      }
+    ],
+    "profile": {
+        "first_name": "Reymark",
+        "last_name": "Torres",
+        "email": "kissartisan@pm.me"
+    }
+}
